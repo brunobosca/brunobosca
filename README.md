@@ -1,5 +1,5 @@
 # 💫 About Me / Sobre Mim:
-👯 Olá, meu nome é Bruno!<br><br>🌱 Atualmente me especializando em Data Science/Analytics com Python e Power BI.<br><br>
+👯 Olá, meu nome é Bruno!<br><br>🌱 Atualmente me especializando em Engenharia de Dados/Analytics com Python e SQL.<br><br>
 
 
 ## 🌐 Socials / Redes Sociais:
